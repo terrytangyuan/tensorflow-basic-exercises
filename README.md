@@ -20,13 +20,13 @@ The Python script [demo.py](./demo.py) provides a basic example for logistic reg
 ## Exercise 1: Minimize error using cross entropy as the cost function
 
 * **Hint a:** Definition of [cross entropy](https://en.wikipedia.org/wiki/Cross_entropy) on Wikipedia. 
-* **Hint b:** you'll need to use `tf.reduce_mean`, `tf.reduce_sum`, and `tf.log`.
+* **Hint b:** You'll need to use `tf.reduce_mean`, `tf.reduce_sum`, and `tf.log`.
 
 ## Exercise 2: Apply exponential learning rate decay
 
-* **Hint a:** API Documentation for [Exponential Decay](https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay). 
-* **Hint b:** you can use `global_step = tf.Variable(0, trainable=False)` to initialize global step.
+* **Hint a:** TensorFlow has a built-in function for exponential decay. See API Documentation for this [here](https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay). 
+* **Hint b:** You can use `global_step = tf.Variable(0, trainable=False)` to initialize global step.
 
 ## Exercise 3: Achieve higher accuracy as much as possible (minimum 0.93)
 
-* **Hint:** tune learning_rate, change optimizers, change cost function, more training steps, early stoping, etc.
+* **Hint:** You can tune learning_rate, change optimizers, change cost function, more training steps, early stoping, etc. Be creative!
