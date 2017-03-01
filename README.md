@@ -2,9 +2,14 @@
 
 # Software Requirements
 
-You need to have [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/) installed. Then install TensorFlow via `pip install tensorflow`. 
+You need to have [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/) installed. Then install [TensorFlow](https://www.tensorflow.org/) via `pip install tensorflow`. Consult [this page](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md) if you want to customize your setup. 
 
-To test your installation, clone this repo and then run `python demo.py`. No error is expected if installation ws successful. 
+To test your installation, clone this repo and then run `python demo.py`. No error is expected if installation ws successful. You should expect the following at the end of the output:
+
+```
+Optimization Finished!
+Accuracy: 0.9256
+``` 
 
 # Instruction
 
