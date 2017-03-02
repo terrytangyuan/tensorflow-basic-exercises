@@ -1,5 +1,8 @@
 # CCASA 2017 TensorFlow Exercise
 
+This repo is exercises for TensorFlow tutorial presented at 2017 CCASA Conference on Recent Advances in Machine Learning. 
+
+
 # Software Requirements
 
 You need to have [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installing/) installed. Then install [TensorFlow](https://www.tensorflow.org/) via `pip install tensorflow`. Consult [this page](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md) if you want to customize your setup. 
@@ -44,5 +47,5 @@ The Python script [demo.py](./demo.py) provides a basic example for logistic reg
 
 # Maintenance
 
-Please contact Yuan Tang (@terrytangyuan) if you have any questions or open an issue.
+Please contact Yuan Tang (terrytangyuan@gmail.com) if you have any questions or open an issue.
 
