@@ -33,7 +33,6 @@ pred = tf.nn.softmax(tf.matmul(x, W) + b) # Softmax
 # Minimize error using MSE
 cost = tf.reduce_sum((y - pred) * (y - pred)) # MSE
 
-
 # Gradient Descent
 optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(cost)
 
