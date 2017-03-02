@@ -1,6 +1,6 @@
 # CCASA 2017 TensorFlow Exercise
 
-This repo is exercises for TensorFlow tutorial presented at 2017 CCASA Conference on Recent Advances in Machine Learning. 
+This repo include exercises for TensorFlow tutorial presented at 2017 CCASA Conference on Recent Advances in Machine Learning. Answers will be posted after the conference.
 
 
 # Software Requirements
