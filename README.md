@@ -35,10 +35,11 @@ The Python script [demo.py](./demo.py) provides a basic example for logistic reg
 * **Hint a:** Calculate the absolute value of the difference between current average cost and previous average cost.
 * **Hint b:** When there's no much different, exit the for loop.
 
-## Exercise 4: Apply [L1 regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/) to weights
+## Exercise 4: Apply L1 regularization to weights
 
-* **Hint a:** Some functions you'll need are: `tf.multiply`, `tf.reduce_sum`, `tf.abs`.
-* **Hint b:** Apply this regularization term to when constructing the model.
+* **Hint a:** Definition of [L1 regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/).
+* **Hint b:** Some functions you'll need are: `tf.multiply`, `tf.reduce_sum`, `tf.abs`.
+* **Hint c:** Apply this regularization term to when constructing the model.
 
 ## Exercise 5: What else can you do to achieve higher accuracy (minimum 0.94)?
 
