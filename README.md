@@ -39,4 +39,10 @@ The Python script [demo.py](./demo.py) provides a basic example for logistic reg
 
 ## Exercise 5: What else can you do to achieve higher accuracy (minimum 0.94)?
 
-* **Hint:** You can tune learning_rate, change optimizers, change cost function, more training steps, early stoping, etc. **Be creative!**
+* **Hint:** You can tune learning_rate, change optimizers, change initializers, change cost function, more training steps, advanced early stoping, etc. **Be creative!**
+
+
+# Maintenance
+
+Please contact Yuan Tang (@terrytangyuan) if you have any questions or open an issue.
+
