@@ -27,6 +27,11 @@ The Python script [demo.py](./demo.py) provides a basic example for logistic reg
 * **Hint a:** TensorFlow has a built-in function for exponential decay. See API Documentation for this [here](https://www.tensorflow.org/api_docs/python/tf/train/exponential_decay). 
 * **Hint b:** You can use `global_step = tf.Variable(0, trainable=False)` to initialize global step.
 
-## Exercise 3: Achieve higher accuracy as much as possible (minimum 0.93)
+## Exercise 3: Apply early stopping when a condition is met
+
+* **Hint a:** Calculate the absolute value of the difference between current average cost and previous average cost.
+* **Hint b:** When there's no much different, exit the for loop.
+
+## Exercise 4: Achieve higher accuracy as much as possible (minimum 0.94)
 
 * **Hint:** You can tune learning_rate, change optimizers, change cost function, more training steps, early stoping, etc. Be creative!
