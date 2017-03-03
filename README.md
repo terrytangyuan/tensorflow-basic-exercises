@@ -50,3 +50,9 @@ The Python script [demo.py](./demo.py) provides a basic example for logistic reg
 
 Please contact Yuan Tang (terrytangyuan@gmail.com) if you have any questions or open an issue.
 
+# Credits
+
+Some screenshots are adopted from TensorFlow Dev Summit, TensorFlow paper, and other online resources. Thanks!
+
+
+ 
